@@ -1,1 +1,2 @@
-# agrinho2k26-joaoanzolim
+# Projeto elaborado na aula de programação.
+## Landing Page sobre: Agro forte, uturo sustentável.
